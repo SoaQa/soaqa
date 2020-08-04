@@ -1,0 +1,5 @@
+**migrations/
+**test*
+.idea
+venv
+**__pycache__/
